@@ -2,7 +2,7 @@
 import google.generativeai as genai
 
 # --- Direct API key import (⚠️ Not secure for production) ---
-GEMINI_API_KEY = "AIzaSyD2Hf_IvqlC-e_Zxltm6C9YC0Dy5RxXCXo"
+GEMINI_API_KEY = "your key"
 
 USE_GEMINI = bool(GEMINI_API_KEY)
 
